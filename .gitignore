@@ -1,0 +1,30 @@
+# 👇 Secret environment variables
+.env
+
+# 👇 Dependency directory (auto-generated)
+node_modules/
+
+# 👇 Lock files (optional; keep only one of these usually)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# 👇 Build output (Next.js)
+.next/
+out/
+
+# 👇 OS-specific files
+.DS_Store
+Thumbs.db
+
+# 👇 VSCode settings (optional; if you don’t want to share with others)
+.vscode/
+
+# 👇 Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# 👇 Other potential system junk
+*.swp
